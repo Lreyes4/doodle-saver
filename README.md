@@ -38,6 +38,3 @@ clone repo, add connection to original owner's repo, make changes and push
 
 
 ## Tests
-
-## Link to walkthrough video
-https://drive.google.com/file/d/1fmKJefWOSlFTIDMI3Ft0bnyKtOqYG2mT/view
